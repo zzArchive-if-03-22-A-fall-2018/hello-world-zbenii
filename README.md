@@ -1,4 +1,4 @@
-### IF.03.01 Basic Web Technique Winter 2017
+### IF.03.01 Procedural Programming Winter 2017
 
 ## Objective
 The goal of this assignment is to make you familiar with a first C program and the tool chain how to build it.
