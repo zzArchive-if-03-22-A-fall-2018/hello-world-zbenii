@@ -21,7 +21,9 @@ Then open a new terminal and type in the following sequence of commands:
    - `cd ∼/Documents/PRPR/01 hello world 1`
    - `gcc -o hello -Wall -pedantic -std=c99 hello world.c`
    - `./hello`
-Then make a screen shot of this terminal window and upload the screen shot together with your hello world.c as solution for your assignment. Take care that the screenshot is in a shape that one can read the content of the terminal. Again ![a sample screen shot](screenshot.png) is part of the starter code.
+Then make a screen shot of this terminal window and upload the screen shot together with your hello world.c as solution for your assignment. Take care that the screenshot is in a shape that one can read the content of the terminal. See a sample screenshot below:
+
+![a sample screen shot](screenshot.png)
 
 ## Evaluation
 All coding assignments will get checked. Most common reasons that your assignment is marked down are:
